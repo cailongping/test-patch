@@ -5,3 +5,4 @@ java
 vue
 django
 mysql
+script
