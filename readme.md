@@ -7,3 +7,4 @@ django
 mysql
 redis
 mongodb
+scrapy
