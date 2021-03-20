@@ -4,3 +4,4 @@ python
 java
 vue
 django
+mysql
